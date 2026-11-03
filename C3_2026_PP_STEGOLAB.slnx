@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="C3_2026_PP_STEGOLAB/C3_2026_PP_STEGOLAB.vcxproj" />
+</Solution>
