@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="C3_2026_PP_STEGOLAB/C3_2026_PP_STEGOLAB.vcxproj" />
+  <Project Path="C3_2026_PP_STEGOLAB/C3_2026_PP_STEGOLAB.vcxproj" Id="84255cea-06fa-42ba-b32c-f8450ec7ee48" />
 </Solution>
