@@ -17,3 +17,9 @@ bool leerLongitud(const cv::Mat& imagen, long long posicion, unsigned int& longi
 
 // Comprobar que cabecera y mensaje caben desde posicion.
 bool validarBloque(const cv::Mat& imagen, long long posicion, unsigned int longitud);
+//AQUI EMPIEZA UN PROVICIONAL
+
+// Prototipos de funciones
+void escribirBit(Mat& imagen, long long posicion, int bit);
+void ocultarByte(Mat& imagen, long long& posicion, unsigned char dato);
+void mostrarUbicacion(long long bitPos, int cols, const char* etiqueta);
